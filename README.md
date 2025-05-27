@@ -1,2 +1,2 @@
 # smart-deadlift-belt
-oT + DL-based posture detection for deadlift"
+IoT + DL-based posture detection for deadlift"
